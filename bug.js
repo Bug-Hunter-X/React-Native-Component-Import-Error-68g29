@@ -1,0 +1,1 @@
+This React Native code throws an error because of an incorrect import statement. The component 'MyComponent' is imported as 'MyComponent' instead of '{MyComponent}' which is causing the error.
